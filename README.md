@@ -1,3 +1,3 @@
 ## Code Reivew App
 
-Backend 
+Backend is build using python programming language.
